@@ -1,0 +1,41 @@
+name: flutter_application_banlinhkien
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+  carousel_slider: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/images-2.png
+    - assets/images/images.png
+    - assets/images/google-icon-2048x2048-pks9lbdv.png
+    - assets/images/img_1.png
+    - assets/images/img_2.png
+    - assets/images/img_3.png
+    - assets/images/img_4.png
+    - assets/images/img_5.png
+    - assets/images/img_6.png
+    - assets/images/img_7.png
+    - assets/images/img_8.png
+    - assets/images/img_9.png
+    - assets/images/img_10.png
+  
